@@ -8,20 +8,20 @@
       ],
       "substitutions": [
         {
-          "input": "Chris Harper Mercer",
-          "inputType": "text",
+          "input": "(?:Chris|Christopher) (?:Sean )?Harper.Mercer",
+          "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
         },
         {
-          "input": "Chris Mercer",
-          "inputType": "text",
+          "input": "Elliot( Oliver Robertson)? Rodger",
+          "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
         },
         {
-          "input": "Harper Mercer",
-          "inputType": "text",
+          "input": "Rodger, Elliot( Oliver Robertson)?",
+          "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
         }
