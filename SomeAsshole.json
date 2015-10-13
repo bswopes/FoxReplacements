@@ -50,6 +50,18 @@
           "caseSensitive": false
         },
         {
+          "input": "Ivan Lopez",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Aaron Alexis",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
           "input": "Andrew Engeldinger",
           "inputType": "text",
           "output": "Some Asshole",
@@ -86,7 +98,7 @@
           "caseSensitive": false
         },
         {
-          "input": "Omar (S.|Sheriff )?Thornton",
+          "input": "Omar (S\.|Sheriff )?Thornton",
           "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
