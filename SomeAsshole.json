@@ -98,7 +98,49 @@
           "caseSensitive": false
         },
         {
-          "input": "Omar (S\.|Sheriff )?Thornton",
+          "input": "Omar (Sheriff )?Thornton",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Omar S. Thornton",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Amy Bishop",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Steven Kazmierczak",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Jiverly (Antaeres )?(Voong|Wong)",
+          "inputType": "regex",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Nidal (Malik )?Hasan",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Robert (A. )?Hawkins",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Seung(-hui)? Cho",
           "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
