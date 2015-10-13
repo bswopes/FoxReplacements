@@ -1,0 +1,33 @@
+{
+  "version": "0.15",
+  "groups": [
+    {
+      "name": "Some Asshole",
+      "urls": [
+        "*"
+      ],
+      "substitutions": [
+        {
+          "input": "Chris Harper Mercer",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Chris Mercer",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Harper Mercer",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true
+    }
+  ]
+}
