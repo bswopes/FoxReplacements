@@ -24,6 +24,72 @@
           "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
+        },
+        {
+          "input": "Dylann (Storm )?Roof",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "John Zawahri",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Adam Lanza",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Radcliffe Haughton",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Andrew Engeldinger",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Wade Michael Page",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "James (Eagan )?Holmes",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "One (L.|Ko|Goh) (Goh|Ko)",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Scott (Evans )?Dekraai",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Jared (Lee )?Loughner",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Omar (S.|Sheriff )?Thornton",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
         }
       ],
       "html": "none",
