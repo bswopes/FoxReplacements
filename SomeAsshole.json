@@ -156,12 +156,6 @@
           "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
-        },
-        {
-          "input": "Jeff(rey)? (James )?Weise",
-          "inputType": "regexp",
-          "output": "Some Asshole",
-          "caseSensitive": false
         }
       ],
       "html": "none",
