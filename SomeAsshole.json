@@ -144,6 +144,24 @@
           "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
+        },
+        {
+          "input": "Sulejman Talovi(c|Ä)",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Charles Carl Roberts( IV)?",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Jeff(rey)? (James )?("Jeff" )?Weise",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
         }
       ],
       "html": "none",
