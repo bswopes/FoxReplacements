@@ -123,7 +123,7 @@
         },
         {
           "input": "Jiverly (Antaeres )?(Voong|Wong)",
-          "inputType": "regex",
+          "inputType": "text",
           "output": "Some Asshole",
           "caseSensitive": false
         },
@@ -154,6 +154,66 @@
         {
           "input": "Charles Carl Roberts( IV)?",
           "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Jeff(rey)?( James)?( \"Jeff\")? Weise",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Robert (S.|Stewart)? Flores( Jr.)?",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Charles (Andrew|Andy) (\"Andy\" )?Williams",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Byran (Koji )?Uyesugi",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Larry Gene Ashbrook",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Mark (O.|Orrin )?Barton",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Eric Harris",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Dylan Klebold",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Gian Luigi Ferri",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "George Jo Hennard",
+          "inputType": "text",
           "output": "Some Asshole",
           "caseSensitive": false
         }
