@@ -122,8 +122,8 @@
           "caseSensitive": false
         },
         {
-          "input": "Jiverly (Antaeres )?(Voong|Wong)",
-          "inputType": "text",
+          "input": "Jiverly (Voong|Antares Wong)",
+          "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
         },
@@ -213,6 +213,30 @@
         },
         {
           "input": "George Jo Hennard",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "James (E.|Edward) (\"Pop\" )?Pough",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Patrick Edward Purdy",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "Patrick (H.|Henry )?Sherrill",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
+        },
+        {
+          "input": "James Oliver Huberty",
           "inputType": "text",
           "output": "Some Asshole",
           "caseSensitive": false
