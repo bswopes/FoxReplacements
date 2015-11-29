@@ -240,6 +240,12 @@
           "inputType": "text",
           "output": "Some Asshole",
           "caseSensitive": false
+        },
+        {
+          "input": "Robert (L.|Lewis) Dear",
+          "inputType": "regexp",
+          "output": "Some Asshole",
+          "caseSensitive": false
         }
       ],
       "html": "none",
