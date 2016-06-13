@@ -246,6 +246,12 @@
           "inputType": "regexp",
           "output": "Some Asshole",
           "caseSensitive": false
+        },
+        {
+          "input": "Omar Mateen",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
         }
       ],
       "html": "none",
