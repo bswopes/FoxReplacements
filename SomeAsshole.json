@@ -252,6 +252,12 @@
           "inputType": "text",
           "output": "Some Asshole",
           "caseSensitive": false
+        },
+        {
+          "input": "Stephen Paddock",
+          "inputType": "text",
+          "output": "Some Asshole",
+          "caseSensitive": false
         }
       ],
       "html": "none",
